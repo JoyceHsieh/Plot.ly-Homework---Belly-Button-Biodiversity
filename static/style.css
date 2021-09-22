@@ -1,0 +1,17 @@
+.text-center{
+    background-image:url("http://studentsdiscover.org/wp-content/uploads/bbb_banner2.jpg") !important;
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    height:250px;
+    
+  }
+.Dashboard{
+    background-color: white;
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+
+
